@@ -37,4 +37,4 @@ https://user-images.githubusercontent.com/your-username/your-demo-video.mp4
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/vyorius-assignment.git
+https://github.com/Kisna28/Rtsp_demo.git
