@@ -16,7 +16,9 @@ This project is an Android app developed as part of the Vyorius assignment. It d
 
 ## 📸 Demo Video
 
-https://github.com/user-attachments/assets/ff274e7b-fb58-4d44-9707-8219520a585f
+
+https://github.com/user-attachments/assets/37cec9dc-83d8-41dd-b89b-a03270494882
+
 
 ---
 
